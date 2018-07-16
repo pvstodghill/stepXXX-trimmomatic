@@ -1,0 +1,7 @@
+---
+image: pvstodghill/trimmomatic
+version: 0.38__2018-07-16
+java: true
+commands:
+  - __trimmomatic__
+
