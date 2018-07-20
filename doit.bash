@@ -14,7 +14,7 @@ fi
 # ------------------------------------------------------------------------
 
 # fixme: hardcoded
-HOWTO="./scripts/howto -f howto.yaml"
+HOWTO="./scripts/howto -f packages.yaml"
 
 # Set the variables that were not set in the config file
 function process_single_end {
